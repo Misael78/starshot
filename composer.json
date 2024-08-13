@@ -341,6 +341,7 @@
         "codemirror/codemirror": "*",
         "composer/installers": "^2.3",
         "cweagans/composer-patches": "^2",
+        "drupal/automatic_updates": "^3.1@dev",
         "drupal/core-composer-scaffold": "^10.3",
         "drupal/core-project-message": "^10.3",
         "drupal/core-recommended": "^10.3",
