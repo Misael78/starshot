@@ -347,7 +347,7 @@
         "drupal/core-recommended": "^10.3",
         "drupal/starshot": "*",
         "drupal/starshot_installer": "*",
-        "drush/drush": "^12.5",
+        "drush/drush": "^13.1",
         "jquery/inputmask": "*",
         "jquery/intl-tel-input": "*",
         "jquery/rateit": "*",
